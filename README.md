@@ -1,2 +1,2 @@
 # UTSAFall23
-A repo for my fall 2023 graduate coursework.
+A repo for my graduate coursework that begain in the Fall of 2023.
